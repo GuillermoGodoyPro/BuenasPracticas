@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">BuenasPracticas</string>
+    <string name="app_name">Hola desde params</string>
+
+    <string name="app_nameTwo">Hola desde params2 perri</string>
+    <string name="txt_enviar_btn">Enviar</string>
+
 </resources>
